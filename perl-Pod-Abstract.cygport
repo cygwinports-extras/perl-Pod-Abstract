@@ -1,0 +1,12 @@
+CPAN_AUTHOR=blilburne
+inherit perl
+
+NAME="perl-Pod-Abstract"
+VERSION=0.20
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl tree-based POD interface module"
+DESCRIPTION="Pod::Abstract provides an abstract, tree-based interface to perl
+POD documents. This allows straightforward, round-trip capable manipulation of
+POD documents, hence allowing features to be added to POD to support your
+programming activities without having to write a whole POD processor."
